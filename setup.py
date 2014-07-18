@@ -9,5 +9,9 @@ require(
 
 setup(
     name="pip-gun",
-    version='1.0.0',
+    packages=['pip_gun'],
+    version='1.0.1',
+    author="Thomas Grainger",
+    author_email="pip-gun@graingert.co.uk",
+    url="https://github.com/graingert/pip-gun"
 )
